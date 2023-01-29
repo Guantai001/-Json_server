@@ -1,0 +1,25 @@
+{
+    "movies": [
+      {
+        "email": "jpguantai@gmail.com",
+        "comment": "hhey",
+        "rate": "10",
+        "movie": "M3GAN",
+        "id": 5
+      },
+      {
+        "email": "jpguantai@gmail.com",
+        "comment": "the movie was lit",
+        "rate": "8",
+        "movie": "Troll",
+        "id": 6
+      },
+      {
+        "email": "jpguanai@gmail.com",
+        "comment": "nice",
+        "rate": "6",
+        "movie": "The Amityville Horror",
+        "id": 7
+      }
+    ]
+  }
